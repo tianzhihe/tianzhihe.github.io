@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  In contemplation, all are questions; in action, therein lie the answers.
+  In contemplation, all are questions. in action, therein lie the answers.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -127,7 +127,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: mind-palace # blog_name will be displayed in your blog page
+blog_name: al-folio # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
