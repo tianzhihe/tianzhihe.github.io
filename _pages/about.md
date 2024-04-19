@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate at Virginia Tech
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Patton Hall 315</p>
-    <p>750 Drillfield Dr</p>
+    <p>Email: tianzhi@vt.edu</p>
+    <p>Office: 315 Patton Hall 315, 750 Drillfield Dr</p>
     <p>Blacksburg, VA 24060</p>
 
 news: true # includes a list of news items
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Welcome!** :smiley:
+**Welcome!** :smile:
 
 I am a Ph.D. Candidate at [The Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/). I am currently working with [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) at [Inform Lab](https://www.inform-lab.org/). 
 
