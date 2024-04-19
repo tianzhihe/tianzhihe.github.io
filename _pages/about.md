@@ -18,8 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Welcome!** :smiley:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Ph.D. Candidate at [The Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/). I am currently working with [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) at [Inform Lab](https://www.inform-lab.org/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have extensive academic and professional research experience in building information modeling (BIM), human-building interaction, and applied machine learning. 
+
+My research focuses on enhancing human-centered ambient intelligence (AmI) in smart home environments through three main areas: integrating wearable technologies to monitor and adjust to user states for improved well-being, exploring proactive human-AmI interactions with AI Agents, and investigating factors that influence user trust in AmI systems. My research aims to advance how AmI can assist users in achieving daily life goals such as comfort improvement and energy efficiency. 
+
+I am also interested in a range of topics in ***Ambient Intelligence (AmI)***, ***Smart Homes***, ***Conversational AI Agents***, ***Wearable Sensors***, ***Human-AI Trust***, and ***Mixed Reality (VR/AR)***. 
+
+Before joining VT, I obtained my bachelor's degree from Tongji University (Shanghai, China) in 2019. 
