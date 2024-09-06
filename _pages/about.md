@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 **Welcome!** :smile:
 
-I am a Ph.D. Candidate at [The Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/). I am currently working with [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) at [Inform Lab](https://www.inform-lab.org/). I am also pursuing an MS.c. in Computer Science, working with [Dr. Yaxing Yao](http://yaxingyao.com/index.html) at [PASTA Lab](https://pasta.cs.vt.edu/).
+I am a Ph.D. Candidate at [The Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/). I am currently working with [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) at [Inform Lab](https://www.inform-lab.org/). I am also pursuing an MS.c. in Computer Science, working with [Dr. Yaxing Yao](https://yaxingyao.cs.vt.edu/) at [PASTA Lab](https://pasta.cs.vt.edu/).
 
 I have extensive academic and professional research experience in building information modeling (BIM), human-building interaction, and applied machine learning. 
 
