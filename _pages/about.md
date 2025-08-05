@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate at Virginia Tech
+subtitle: Assistant Professor at UTSA
 
 profile:
   align: right
@@ -20,12 +20,21 @@ social: true # includes social icons at the bottom of the page
 
 **Welcome!** :smile:
 
-I am a Ph.D. Candidate at [The Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/). I am currently working with [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) at [Inform Lab](https://www.inform-lab.org/). I am also pursuing an MS.c. in Computer Science, working with [Dr. Yaxing Yao](https://yaxingyao.cs.vt.edu/) at [PASTA Lab](https://pasta.cs.vt.edu/).
+## About Me
 
-I have extensive academic and professional research experience in building information modeling (BIM), human-building interaction, and applied machine learning. 
+I am an incoming **Assistant Professor** in the [School of Civil & Environmental Engineering and Construction Management](https://cecm.utsa.edu/) at the **University of Texas at San Antonio (UTSA)**, under the [Klesse College of Engineering and Integrated Design](https://klesse.utsa.edu/). I recently earned my Ph.D. from the [Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/), where I was advised by [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) at the [Inform Lab](https://www.inform-lab.org/).
 
-My research focuses on enhancing human-centered ambient intelligence (AmI) in smart home environments through three main areas: integrating wearable technologies to monitor and adjust to user states for improved well-being, exploring proactive human-AmI interactions with AI Agents, and investigating factors that influence user trust in AmI systems. My research aims to advance how AmI can assist users in achieving daily life goals such as comfort improvement and energy efficiency. 
+In addition to my Ph.D., I am pursuing an M.S. in Computer Science at Virginia Tech, working with [Dr. Yaxing Yao](https://yaxingyao.cs.vt.edu/) at the HOPSEC Lab, where I focus on the intersection of smart buildings and trustworthy AI agents.
 
-I am also interested in a range of topics in ***Ambient Intelligence (AmI)***, ***Smart Homes***, ***Conversational AI Agents***, ***Wearable Sensors***, ***Human-AI Trust***, and ***Mixed Reality (VR/AR)***. 
+My research explores how **ambient intelligence (AmI)** systems in smart environments can better serve human needs by integrating data-driven reasoning, physiological sensing, and intelligent interfaces. Specifically, I investigate:
 
-Before joining VT, I obtained my bachelor's degree from Tongji University (Shanghai, China) in 2019. 
+- How AI agents can proactively and transparently interact with users to support well-being in the built environments;
+- How wearable technologies can be used to infer human physiological and mental states in real time;
+- How trust in human-AI interaction can be designed and evaluated in intelligent environments.
+
+This work aims to improve human comfort, energy efficiency, and overall quality of life in smart buildings, while maintaining user autonomy and trust.
+
+My broader interests span across ***Ambient Intelligence (AmI)***, ***Smart Homes***, ***Conversational AI Agents***, ***Wearable Sensors***, ***Human-AI Trust***, and ***Mixed Reality (VR/AR)***.
+
+Before joining Virginia Tech, I received my Bachelor's degree in Construction Management from **Tongji University** in Shanghai, China (2019).
+
