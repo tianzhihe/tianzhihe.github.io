@@ -6,7 +6,7 @@ subtitle: Assistant Professor at UTSA
 
 profile:
   align: right
-  image: Tianzhi He.jpg
+  image: prof_pic_new.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: tianzhi.he@utsa.edu</p>
