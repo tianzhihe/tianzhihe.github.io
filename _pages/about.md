@@ -36,7 +36,7 @@ My broader interests span across ***Ambient Intelligence (AmI)***, ***Smart Home
 
 I received my **Bachelor’s degree in Construction Management** from **Tongji University** in Shanghai, China (2019).
 
-## Human-Centered Ambient Intelligence Lab (AmI-Lab)
+## Ambient Intelligence Lab (AmI-Lab)
 
 I direct the **Human-Centered Ambient Intelligence Lab (AmI-Lab)** at UTSA. Our group investigates how AI agents, wearable sensors, and smart environments can work together to create healthier, more comfortable, and energy-efficient living and working spaces.  
 We welcome students and collaborators who share interests in **AI, smart buildings, and human-centered design**.
