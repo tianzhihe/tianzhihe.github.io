@@ -38,10 +38,10 @@ I received my **Bachelor’s degree in Construction Management** from **Tongji U
 
 ## Ambient Intelligence Lab (AmI-Lab)
 
-I direct the **Human-Centered Ambient Intelligence Lab (AmI-Lab)** at UTSA. Our group investigates how AI agents, wearable sensors, and smart environments can work together to create healthier, more comfortable, and energy-efficient living and working spaces.  
+I direct the **Ambient Intelligence Lab (AmI-Lab)**. Our group investigates how AI agents, wearable sensors, and smart environments can work together to create healthier, more comfortable, and energy-efficient living and working spaces.  
 We welcome students and collaborators who share interests in **AI, smart buildings, and human-centered design**.
 
 ## Join Us
 I am always looking for motivated graduate and undergraduate students interested in **AI, smart environments, and human–computer interaction**.  
-If you are interested in working with me, please [contact me via email](mailto:tianzhi.he@utsa.edu) with your CV and a short description of your research interests.
+If you are interested in working with me, please contact me via email (tianzhi.he@utsa.edu) with your CV and a short description of your research interests.
 
