@@ -46,23 +46,6 @@ Ongoing research topics include:
 
 ---
 
-## About the Advisor
-
-Dr. **Tianzhi He** is an **Assistant Professor** at UT San Antonio and the **Director of AmI-Lab**.  
-His research advances **Ambient Intelligence (AmI)** for smart built environments by integrating:  
-
-- **Data-driven reasoning** (AI, LLMs, and AI agents)  
-- **Physiological sensing** (wearable and environmental data)  
-- **Intelligent interfaces** (mixed reality and human–AI interaction)  
-
-**Background:**  
-- Ph.D. & M.S., Civil Engineering, **Virginia Tech**  
-- B.S., Construction Management, **Tongji University, China**  
-
-Learn more: [Personal Website](https://tianzhihe.github.io/)  
-
----
-
 ## About UT San Antonio
 
 The **University of Texas at San Antonio (UTSA)** is a **Tier One research university** and the **third-largest public research institution in Texas**.  
