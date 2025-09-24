@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses taught by Dr. Tianzhi He at UT San Antonio and Virginia Tech
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 # Teaching
