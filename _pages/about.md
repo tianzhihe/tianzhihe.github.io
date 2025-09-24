@@ -22,26 +22,37 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-I am an **Assistant Professor** in the [School of Civil & Environmental Engineering and Construction Management](https://klesse.utsa.edu/civil-environmental-construction-management/) at the **University of Texas at San Antonio (UT San Antonio)**, within the [Klesse College of Engineering and Integrated Design](https://klesse.utsa.edu/). I earned my Ph.D. from the [Charles Edward Via, Jr. Department of Civil and Environmental Engineering](https://cee.vt.edu/) at [Virginia Tech](https://www.vt.edu/), where I was advised by [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh) in the [Inform Lab](https://www.inform-lab.org/).
+I am an **Assistant Professor** in the [School of Civil & Environmental Engineering and Construction Management](https://klesse.utsa.edu/civil-environmental-construction-management/) at the **University of Texas at San Antonio (UT San Antonio)**, within the [Klesse College of Engineering and Integrated Design](https://klesse.utsa.edu/).  
 
-My research explores how **Ambient Intelligence (AmI)** systems in smart environments can better serve human needs by integrating data-driven reasoning, physiological sensing, and intelligent interfaces. In particular, I focus on:
+My research advances **Ambient Intelligence (AmI)** for smart built environments by integrating:  
 
-- Designing AI agents that proactively and transparently interact with users to support well-being in built environments;  
-- Leveraging wearable technologies to infer human physiological and mental states in real time;  
-- Investigating how trust in human–AI interaction can be designed, evaluated, and maintained in intelligent environments.  
+- **AI agents and large language models (LLMs)** for reasoning and decision-making in buildings;  
+- **Wearable and embedded sensing** for real-time human state inference;  
+- **Mixed reality (VR/AR/MR)** tools for immersive interaction, training, and operations;  
+- **Digital twins** to synchronize physical and virtual building systems;  
+- **Human–AI interfaces** that are proactive, transparent, and trustworthy.  
 
-The overarching goal of this work is to enhance human comfort, energy efficiency, and quality of life in smart buildings—while preserving user autonomy and fostering trust.
+The overarching goal of my work is to design **human-centered, intelligent environments** that enhance comfort, well-being, and sustainability in buildings on Earth—and in future space habitats.  
 
-My broader interests span across ***Ambient Intelligence (AmI)***, ***Smart Homes***, ***Conversational AI Agents***, ***Wearable Sensors***, ***Human–AI Trust***, and ***Mixed Reality (VR/AR)***.
-
-I received my **Bachelor’s degree in Construction Management** from **Tongji University** in Shanghai, China (2019).
+I earned my **Ph.D. and M.S. in Civil Engineering** from [Virginia Tech](https://www.vt.edu/), where I was advised by [Dr. Farrokh Jazizadeh](https://www.inform-lab.org/farrokh-jazizadeh), and a **B.S. in Construction Management** from **Tongji University**, China.
 
 ## Ambient Intelligence Lab (AmI-Lab)
 
-I direct the **Ambient Intelligence Lab (AmI-Lab)**. Our group investigates how AI agents, wearable sensors, and smart environments can work together to create healthier, more comfortable, and energy-efficient living and working spaces.  
-We welcome students and collaborators who share interests in **AI, smart buildings, and human-centered design**.
+I direct the **Ambient Intelligence Lab (AmI-Lab)** at UT San Antonio.  
+We study how **artificial intelligence, embedded and wearable sensing, and mixed reality** work together to create **human-centric ambient intelligence** for smart built environments.  
+
+Our work spans:  
+- **Human–Building Interaction**  
+- **Large Language Models & AI Agents**  
+- **Embedded & Wearable Sensing**  
+- **Mixed Reality (VR/AR/MR)**  
+- **Digital Twins for Smart Buildings**  
+- **Space Habitat Applications**  
+
+We actively collaborate across disciplines to deliver research that is both **academically rigorous** and **practically impactful**.
 
 ## Join Us
-I am always looking for motivated graduate and undergraduate students interested in **AI, smart environments, and human–computer interaction**.  
-If you are interested in working with me, please contact me via email (tianzhi.he@utsa.edu) with your CV and a short description of your research interests.
 
+The AmI Lab is recruiting motivated graduate and undergraduate students who are passionate about **AI, smart environments, and human-centered design**.  
+Check out the [Join Us] Page for current opportunities and application details.  
+If you’re interested in working with us, feel free to reach out via email (tianzhi.he@utsa.edu).  
