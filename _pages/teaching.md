@@ -53,9 +53,13 @@ This graduate course introduces Building/Civil Information Modeling (BIM/CIM) te
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/cee_5060_vr_1.png" class="img-fluid rounded z-depth-1" %}
   </div>
+</div>
+<div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/cee_5060_vr_2.png" class="img-fluid rounded z-depth-1" %}
   </div>
+</div>
+<div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/cee_5060_vr_3.png" class="img-fluid rounded z-depth-1" %}
   </div>
