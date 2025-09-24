@@ -24,6 +24,7 @@ Across both UTSA and Virginia Tech, I emphasize **active, technology-enhanced, a
 
 This course provides a practical understanding of the design principles, materials, and equipment used in MEP systems within construction projects. Students explore how these systems affect building performance, occupants comfort, and sustainability, while learning to interpret construction documents, communicate effectively, and evaluate systems in the field.  
 
+![CSM 4643 MEP Systems](assets/img/csm_4642_image.png)
 ---
 
 ## Virginia Tech (Session Instructor & Graduate Teaching Assistant)
@@ -40,6 +41,10 @@ This graduate course introduces Building/Civil Information Modeling (BIM/CIM) te
 - Designed and facilitated **VR-based collaborative design review** sessions, where students used immersive walkthroughs to evaluate their semester-long virtual prototyping projects.  
 - Guided students through **spatial cognition exercises** to bridge 2D drawings with 3D intelligent models.  
 - Supported team-based projects simulating real-world AEC workflows.  
+
+![CEE 5060 VR Session 1](assets/img/cee_5060_vr_1.png)  
+![CEE 5060 VR Session 2](assets/img/cee_5060_vr_2.png)  
+![CEE 5060 VR Session 3](assets/img/cee_5060_vr_3.png)
 
 ### CEE 4844 – Building Information Modeling and Integrated Practices (Undergraduate Level)  
 *Instructor: Dr. Farrokh Jazizadeh, Dr. Hongrui Yu*  
