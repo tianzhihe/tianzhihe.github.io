@@ -24,7 +24,14 @@ Across both UTSA and Virginia Tech, I emphasize **active, technology-enhanced, a
 
 This course provides a practical understanding of the design principles, materials, and equipment used in MEP systems within construction projects. Students explore how these systems affect building performance, occupants comfort, and sustainability, while learning to interpret construction documents, communicate effectively, and evaluate systems in the field.  
 
-![CSM 4643 MEP Systems](assets/img/csm_4642_image.png)
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/csm_4642_image.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+    CSM 4643 – Course Page
+</div>
 ---
 
 ## Virginia Tech (Session Instructor & Graduate Teaching Assistant)
@@ -42,9 +49,20 @@ This graduate course introduces Building/Civil Information Modeling (BIM/CIM) te
 - Guided students through **spatial cognition exercises** to bridge 2D drawings with 3D intelligent models.  
 - Supported team-based projects simulating real-world AEC workflows.  
 
-![CEE 5060 VR Session 1](assets/img/cee_5060_vr_1.png)  
-![CEE 5060 VR Session 2](assets/img/cee_5060_vr_2.png)  
-![CEE 5060 VR Session 3](assets/img/cee_5060_vr_3.png)
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/cee_5060_vr_1.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/cee_5060_vr_2.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/cee_5060_vr_3.png" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+    CEE 5060 – VR-based design review: immersive walkthroughs enhanced students’ spatial cognition and collaborative evaluation skills.
+</div>
 
 ### CEE 4844 – Building Information Modeling and Integrated Practices (Undergraduate Level)  
 *Instructor: Dr. Farrokh Jazizadeh, Dr. Hongrui Yu*  
