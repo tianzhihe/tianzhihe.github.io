@@ -17,7 +17,7 @@ Across both UTSA and Virginia Tech, I emphasize **active, technology-enhanced, a
 
 ---
 
-## University of Texas at San Antonio (UTSA)
+## University of Texas at San Antonio (UT San Antonio)
 
 ### Fall 2025  
 **CSM 4643 – Mechanical, Electrical, and Plumbing (MEP) Systems**  
