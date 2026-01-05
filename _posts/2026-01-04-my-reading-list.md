@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "My Reading List"
-date: 2026-01-04 00:00:00-0600
+date: 2026-01-04
 description: "A living reading log of blog posts, news, papers, and books that I want to keep in my knowledge library."
-tags: reading knowledge-list zettelkasten
+tags: reading knowledge-list
 categories: personal
 giscus_comments: true
 related_posts: false
